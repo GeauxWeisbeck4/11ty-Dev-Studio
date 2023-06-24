@@ -1,0 +1,21 @@
+{
+  "title": "11ty Dev Studio",
+  "url": "https://example.com/",
+  "language": "en",
+  "description": "11ty Developer Studio creating the best digital experiences.",
+  "feed": {
+    "subtitle": "Bringing you the best digital 11ty experiences on the wegb.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Andrew Weisbeck",
+    "email": "andrew.weisbeck@gmail.com",
+    "url": "https://11tydevstudio.com/about-me/"
+  }
+}
